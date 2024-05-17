@@ -1,7 +1,13 @@
 # PG Life (Web Development Project)
 
-PG Life is a website which I have created using React ,PHP keeping in mind the challenges faced by the students to search for good accommodation when they join college/university.
+"Welcome to PG Life, your ultimate destination for finding the perfect PG accommodations! Whether you're a student, a young professional, or anyone seeking a comfortable and convenient living space, PG Finder has you covered.
 
+Discover a comprehensive database of PG accommodations tailored to your preferences and needs. Our user-friendly interface allows you to browse through a variety of options, including location, amenities, budget, and more, making your search efficient and enjoyable.
+
+With detailed listings and verified reviews, you can trust PG Finder to help you make an informed decision. From cozy rooms in shared apartments to fully furnished private suites, we provide options to suit every lifestyle and budget.
+
+Finding your ideal PG has never been easier. Start your search today with PG Finder and embark on your journey to comfortable living!"
+PG Life is a website which I have created using React ,PHP keeping in mind the challenges faced by the students to search for good accommodation when they join college/university.
 ## Project Screenshot
 PG Life website consists of 4-5 pages. 
 Index , Property List , Property Details , Dashboard etc.
