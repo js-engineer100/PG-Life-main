@@ -48,7 +48,7 @@ CREATE TABLE `booking` (
 --
 
 INSERT INTO `booking` (`id`, `user_id`, `name`, `email`, `phone`, `people`, `rooms`, `dob`, `arrival`, `room_pr`, `pg_name`, `city_n`, `created_at`) VALUES
-(29, 3, 'prashant kumar', 'prashant344@gmail.co', '5658795123', 1, 2, '2023-05-09', '2023-05-26', 'adjacent', 'Ganpati Paying Guest', 'Bangluru', '2023-05-29 16:20:10.874857'),
+(29, 3, 'Ramesh kumar', 'ramesh@gmail.co', '5658795123', 1, 2, '2023-05-09', '2023-05-26', 'adjacent', 'Ganpati Paying Guest', 'Bangluru', '2023-05-29 16:20:10.874857'),
 (30, 3, 'Arjun', 'Arjun@gmail.com', '9087654321', 1, 1, '2023-05-26', '2023-05-31', 'adjoining', 'Ganpati Paying Guest', 'Bangluru', '2023-05-29 16:20:10.920724'),
 (39, 2, 'Rohan', 'Rohan12@gmail.com', '9876543210', 1, 1, '2023-05-26', '2023-05-18', 'connecting', 'Sweet Homes', 'delhi', '2023-05-30 06:04:21.952686'),
 (40, 12, 'vikram', 'vikram12@gmail.com', '9876543210', 1, 1, '2023-06-10', '2023-05-20', 'adjacent', 'Space Paying Guest', 'mumbai', '2023-05-30 06:34:24.246724');
